@@ -19,6 +19,7 @@ namespace EFCoreCodeFirst
 
             context.Student.Add(std);
             context.SaveChanges();
+
         }
     }
 }
